@@ -1,8 +1,19 @@
-# React + Vite
+# Dogs - React Course
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this course I learned how to use React to develop reactive web applications.
 
-Currently, two official plugins are available:
+I developed a web application with similar functionalities to social networks like Instagram.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The focus of the course is on a complete understanding of React, so practically everything will be created without dependence on external packages.
+
+## Install
+
+`npm install`
+
+## Start
+
+`npm run dev`
+
+## Build
+
+`npm run build`
