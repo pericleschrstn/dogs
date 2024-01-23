@@ -8,12 +8,18 @@ The focus of the course is on a complete understanding of React, so practically 
 
 ## Install
 
-`npm install`
+```
+npm install
+```
 
 ## Start
 
-`npm run dev`
+```
+npm run dev
+```
 
 ## Build
 
-`npm run build`
+```
+npm run build
+```
